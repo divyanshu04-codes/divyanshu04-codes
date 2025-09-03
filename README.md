@@ -22,7 +22,20 @@
 ### 🎯 Currently Exploring
 - Cloud Admin (Jira Cloud vs Data Center)  
 - API Integrations (Jira REST, Slack, GitHub CI/CD)  
-- AI-assisted dashboards & reporting  
+- AI-assisted dashboards & reporting
+
+- ---
+
+### 📊 GitHub Stats & Activity
+
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu04-codes&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu04-codes&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu04-codes&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshu04-codes&theme=radical)
+
 
 ---
 
