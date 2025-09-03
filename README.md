@@ -26,15 +26,26 @@
 
 - ---
 
+---
+
 ### 📊 GitHub Stats & Activity
 
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu04-codes&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu04-codes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu04-codes&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu04-codes&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu04-codes&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu04-codes&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshu04-codes&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu04-codes&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</p>
+
 
 
 ---
